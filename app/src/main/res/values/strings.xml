@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ByLaws</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="article_i">Article I</string>
+    <string name="article_subheading">Title and Scope of Act</string>
+
+<string name="section1"><b>SECTION 1. Title of Act.</b> – This Act shall be known as the “Land Transportation and Traffic Code.”</string>
+    <string name="section_2"><b>SECTION 2. Scope of Act.</b> – The provisions of this Act shall control, as far as they apply, the registration and operation of motor
+        vehicles and the licensing of owners, dealers, conductors, drivers, and similar matters.</string>
+    <string name="article2_section3"><b>SECTION 3. Words and Phrases Defined.</b> – As used in this Act:</string>
+    <string name="content"><b>(a) “Motor Vehicle”</b> shall mean any vehicle propelled by any power other than muscular power using the public highways,
+        but excepting road rollers, trolley cars, street-sweepers, sprinklers, lawn mowers, bulldozers, graders, fork-lifts, amphibian
+        trucks, and cranes if not used on public highways, vehicles which run only on rails or tracks, and tractors, trailers and traction engines of all
+        kinds used exclusively for agricultural purposes. Trailers having any number of wheels, when propelled or intended to be propelled by attachment to
+        a motor vehicle, shall be classified as separate motor vehicle with no power rating.</string>
+    <string name="article2_content1"><b>(b) “Passenger automobiles”</b> shall mean all pneumatic-tire vehicles of types similar to those usually known under the
+        following terms: touring car, command car, speedster, sports car, roadster, jeep, cycle car (except motor wheel and similar small outfits which are classified
+        with motorcycles), coupe, landaulet, closed car, limousine, cabriolet, and sedan. Motor vehicles with changed or rebuilt bodies, such as jeepneys, jitneys, or
+        station wagons, using a chassis of the usual pneumatic-tire passenger automobile type, shall also be classified as passenger automobile, if their net allowable
+        carrying capacity, as determined by the Commissioner of Land Transportation, does not exceed nine passengers and if they are not used primarily for carrying freight or
+        merchandise. The distinction between “passenger truck” and “passenger automobile” shall be that of common usage: Provided, That a motor vehicle registered for
+        more than nine passengers shall be classified as “truck”: And Provided, further, That a “truck with seating compartments at the back not used for hire shall be
+        registered under special “S” classifications. In case of dispute, the Commissioner of Land Transportation  shall determine the classification to which any special
+        type of motor vehicle belongs.</string>
+    <string name="article2_content2"><b>(c) “Articulated vehicle”</b> shall mean any motor vehicle with a trailer having no front axle and so attached that part of the trailer
+        rests upon motor vehicle and a substantial part of the weight of the trailer and of its load is borne by the motor vehicle. Such a trailer shall be called as “semi-trailer.”
+    </string>
+    <string name="article2_content3"><b>(d) “Driver”</b> shall mean every and any licensed operator of a motor vehicle.</string>
+    <string name="article2_content4"><b>(e) “Professional driver”</b> shall mean every and any driver hired or paid for driving or operating a motor vehicle,
+        whether for private use or for hire to the public. Any person driving his own motor vehicle for hire is a professional driver. iatdc2005</string>
+    <string name="article2_content5"><b>(f) “Owner”</b> shall mean the actual legal owner of a motor vehicle, in whose name such vehicle is duly registered
+        with the Land Transportation Commission. The “owner” of a government-owned motor vehicle is the head of the office or the chief of the Bureau to
+        which the said motor vehicle belongs.</string>
+    <string name="article2_content6"><b>(g) “Dealer”</b> shall mean every person, association, partnership, or corporation making, manufacturing, constructing, assembling,
+        remodeling, rebuilding, or setting up motor vehicles; and every such entity acting as agent for the sale of one or more makes, styles, or kinds of motor vehicles,
+        dealing in motor vehicles, keeping the same in stock or selling same or handling with a view to trading same.</string>
+    <string name="article2_content7"><b>(h) “Garage”</b>shall mean any building in which two or more motor vehicles, either with or without drivers, are kept ready for hire to the public,
+        but shall not include street stands, public service stations, or other public places designated by proper authority as parking spaces for motor vehicles for hire while
+        awaiting or soliciting business.</string>
+    <string name="article2_content8"><b>(i) “Gross weight”</b> shall mean the measured weight of a motor vehicle plus the maximum allowable carrying capacity in merchandise,
+        freight and/or passenger, as determined by the Commissioner of Land Transportation.</string>
+    <string name="article2_content9"><b>(j) “Highways”</b> shall mean every public thoroughfare, public boulevard, driveway, avenue, park, alley and callejon, but shall not include
+        roadway upon grounds owned by private persons, colleges, universities, or other similar institutions.</string>
+    <string name="article2_content10"><b>(k) “The Commissioner of Land Transportation or his deputies”</b> shall mean the actual or acting chief of the Land Transportation Commission
+        or such representatives, deputies, or assistants as he may, with the approval of the Secretary of Public Works and Communications,  appoint or designate in writing for
+        the purpose contemplated by this Act.</string>
+    <string name="article2_content11"><b>(l) “Parking or parked”</b>, for the purposes of this Act, shall mean that a motor vehicle is “parked” or “parking” if it has been
+        brought to a stop on the shoulder or proper edge of a highway, and remains inactive in that place or close thereto for an appreciable period of time. A motor vehicle
+        which properly stops merely to discharge a passenger or to take in a waiting passenger, or to load or unload a small quantity of freight with reasonable dispatch shall
+        not be considered as “parked”, if the motor vehicle again moves away without delay.</string>
+    <string name="article2_content12"><b>(m) “Tourist”</b> shall mean a foreigner who travels from place to place for pleasure or culture.</string>
+    <string name="article3">Article III</string>
+    <string name="article3_content"><b>SECTION 4. Creation of the Commission.</b> – (a) There is created under the Department of Public Works and Communications an office which
+        shall be designated and known as the Land Transportation Commission, composed of one Commissioner and one Deputy Commissioner, who shall be vested with the powers
+        and duties hereafter specified. Whenever the word “Commission” is used in this Act, it shall be deemed to mean the Land Transportation Commission, and whenever the
+        word “Commissioner” is used in this Act, it shall be taken to mean the Commissioner or Deputy Commissioner, as the case may be.</string>
+    <string name="article3_content1"><b>(b) The Commissioner and Deputy Commissioner</b> shall hold office until removed in accordance with the provisions of the
+        Revised Administrative Code.</string>
+    <string name="article3_content2"><b>(c) The Commissioner</b> shall receive an annual compensation of twenty thousand five hundred eighty pesos and the Deputy Commissioner,
+        an annual compensation of eighteen thousand six hundred thirty-six pesos. The Commissioner shall be assisted by one head executive assistant
+        (MV regulation adviser or chief), one administrative officer, one registration regulation chief, one inspection, examination and licensing regulation chief,
+        one law and traffic enforcement regulation chief, one provincial regulation chief, one utility and property regulation chief, one accounting officer, one
+        internal chief auditor, one personnel officer III, one budget officer IV, and one chief medical division IV, who shall receive an annual compensation of fifteen
+        thousand two hundred sixty-four pesos each; ten land transportation regional directors who shall receive an annual compensation of fourteen thousand five hundred
+        thirty-two pesos each; ten transportation assistant regional directors, who shall receive an annual compensation of eleven thousand three hundred twenty-eight pesos each;
+        and ten land transportation assistant regulation chiefs, who shall receive an annual compensation of thirteen thousand one hundred fifty-two pesos each; Provided,
+        That the assistant chiefs of divisions shall receive an annual compensation of twelve thousand five hundred sixteen pesos each; the chiefs of sections, district supervisors,
+        and land transportation registrars III shall receive an annual compensation of ten thousand two hundred sixty pesos each; the assistant district supervisors and land
+        transportation registrars II shall receive an annual compensation of eight thousand eight hundred thirty-two pesos each; the land transportation registrars I shall
+        receive an annual compensation of seven thousand six hundred eight pesos each; and all other employees in the land transportation commission whose salaries are paid
+        monthly shall receive an increase in an amount equivalent to eight WAPCO ranges each, but in no case shall an employee exceed the salary of his immediate superior.</string>
+    <string name="article3_content3"><b>(d) The Commission</b> shall have its offices in Quezon City where the present Motor Vehicle Office is located, and shall establish a regional branch
+        office each in Tuguegarao (Cagayan), Baguio City, Pasig (Rizal), Lipa City, San Fernando (La Union), Naga City, Cebu City, Iloilo City, Cagayan de Oro City, and Davao City,
+        to be headed by a regional director who will have immediate administration, supervision and control over all activities and administration of the Commission in the
+        respective regions. The Commissioner shall be responsible for the administration of this Act and shall have, in connection therewith, the following powers and duties, in
+        addition to those mentioned elsewhere in this Act:</string>
+    <string name="article3_content4"><b>(1) With the approval of the Secretary of Public Works and Communications,</b> to issue rules and regulations not in conflict with the provisions
+        of this Act, prescribing the procedure for the examination, licensing and bonding of drivers; the registration and re-registration of motor vehicles, transfer of
+        ownership, change of status; the replacement of lost certificates, licenses, badges, permits or number plates; and to prescribe the minimum standards and specifications
+        including allowable gross weight, allowable length, width and height or motor vehicles, distribution of loads, allowable loads on tires, change of tire sizes, body
+        design or carrying capacity subsequent to registration and all other special cases which may arise for which no specific provision is otherwise made in this Act.</string>
+    <string name="article3_content5"><b>(2) To compile and arrange all applications,</b> certificates, permits, licenses, and to enter, note and record thereon transfers, notifications,
+        suspensions, revocations, or judgments of conviction rendered by competent courts concerning violations of this Act, with the end in view of preserving and making easily
+        available such documents and records to public officers and private persons properly and legitimately interested therein.</string>
+    <string name="article3_content6"><b>(3) To give public notice of the certificates,</b> permits, licenses and badges issued, suspended or revoked and/or motor vehicles
+        transferred and/or drivers bonded under the provisions of this Act.
+</string>
+    <string name="article3_content7"><b>(4) The Commissioner of Land Transportation,</b> with the approval of the Secretary of Public Works and Communications, may designate
+        as his deputy and agent any employee of the Land Transportation Commission, or such other government employees as he may deem expedient to assist in the carrying out the
+        provisions of this Act.
+</string>
+    <string name="article3_content8"><b>(5) The Commissioner of Land Transportation</b> and his deputies are hereby authorized to make arrest for violations of the provisions
+        of this Act in so far as motor vehicles are concerned; to issue subpoena and subpoena duces tecum to compel the appearance of motor vehicle operators and drivers and/or
+        other persons or conductors; and to use all reasonable means within their powers to secure enforcement of the provisions of this Act.</string>
+    <string name="article3_content9"><b>(6) The Commissioner of Land Transportation</b> or his deputies may at any time examine and inspect any motor vehicle to determine
+        whether such motor vehicle is registered, or is unsightly, unsafe, overloaded, improperly marked or equipped, or otherwise unfit to be operated because of possible
+        excessive damage to highways, bridges and/or culverts.</string>
+    <string name="article3_content10"><b>(7) The Philippine Constabulary</b>  and the city and municipal police forces are hereby given the authority and the primary responsibility
+        and duty to prevent violations of this Act, and to carry out the police provisions hereof within their respective jurisdictions: Provided, That all apprehensions made
+        shall be submitted for final disposition to the Commissioner and his deputies within twenty-four hours from the date of apprehension.</string>
+    <string name="article3_content11"><b>(8) All cases involving violations of this Act</b> shall be endorsed immediately by the apprehending officer to the Land Transportation
+        Commission. Where such violations necessitate immediate action, the same shall be endorsed to the traffic court, city or municipal court for summary investigation,
+        hearing and disposition, but in all such cases, appropriate notices of the apprehensions and the dispositions thereof shall be given to the Commissioner of Land
+        Transportation by the law-enforcement agency and the court concerned.
+Notation of all such dispositions shall be entered in the records, and copy shall be mailed to the owner and to the driver concerned.
+    </string>
+    <string name="chapter2_subheading">Registration of Motor Vehicles</string>
+    <string name="chapter2_section5"><b>SECTION 5. Compulsory Registration of Motor Vehicles.</b> – (a) All motor vehicles and trailer of any type used or operated on or upon
+        any highway of the Philippines must be registered with the Bureau of Land Transportation  for the current year in accordance with the provisions of this Act.</string>
+    <string name="chapter2_section"><b>(b) The dates of annual registration of motor vehicles</b> shall be based on a registration scheme to be prepared by the Bureau of Land
+        Transportation subject to approval of the Minister of Transportation and Communications. The scheme shall provide for a system that will distribute the registration of
+        motor vehicles equitably over different months in a calendar year. Said scheme and rates shall not be changed more often than once every three (3) years, and only upon
+        due notice given to the public at least ninety (90) calendar days before the effectivity of such registration scheme. Any registration of motor vehicles not renewed or before
+        the date fixed by the Bureau of Land Transportation shall become delinquent and invalid.</string>
+    <string name="chapter2_article1_sub">Duty to Register, Reports, Applications, Classifications</string>
+    <string name="chapter2_section1"><b>(c) Dealer’s Report.</b> – Dealers shall submit to the Director of Land Transportation a report concerning the sale or transfer of or any other
+        transaction involving motor vehicles, including such information as importation, manufacturing data, and number of stocks remaining, as the Director may require for the
+        effective enforcement of the provision of this Act within five (5) working days from such sale, transfer or transaction. Such dealers shall furnish also the buyer with a
+        duplicate copy thereof, duly authenticated by the Director of Land Transportation.</string>
+    <string name="chapter2_section2"><b>(d) Unauthorized repair of change of engine serial number.</b> – Unless satisfactorily explained to and approved by the Director of Land
+        Transportation, no repair involving the restoration of the original or registered serial number as stamped on the engine shall be allowed. No change involving an
+        alteration of or tampering with the original or registered engine serial number of a motor vehicle shall ever be allowed, and any motor vehicle with a trace of having
+        its engine serial number altered or tampered with shall be refused registration or re-registration.</string>
+    <string name="chapter2_section3"><b>(e) Encumbrances of motor vehicles.</b>   Mortgages, attachments, and other encumbrances of motor vehicles, in order to be valid against third
+        parties must be recorded in the Bureau. Voluntary transactions or voluntary encumbrances shall likewise be properly recorded on the face of all outstanding copies of
+        the certificates of registration of the vehicle concerned. Cancellation or foreclosure of such mortgages, attachments, and other encumbrances shall likewise be recorded, and in the absence of such cancellation, no certificate of registration shall be issued without the corresponding notation of mortgage, attachment and/or other encumbrances.
+Records of encumbrances of motor vehicles shall be kept by the Bureau of Land Transportation in chronological and/or alpha-numerical and/or any other sequence and shall contain, among other things, the time, date, number of the entry, and other cross-indexing entries for immediate data retrieval, in a “Book of Motor Vehicle Encumbrances” referring to the creation, cancellation or foreclosure of the aforesaid mortgages, attachments or to other encumbrances.
+The Bureau of Land Transportation shall collect a fee of Fifty Pesos (P50.00) for every annotation of a mortgage, attachment and/or other encumbrances or cancellation thereof.</string>
+    <string name="chapter2_section4"><b>SECTION 6. Application and Payments for Registration.</b> – Applications and payments for registration shall be made either personally or by
+        registered mail, and the date of the cancellation of the postage stamps of envelopes containing money order or check shall be taken as the date of the application and/or
+        payment for registration: Provided, That the application is properly prepared and the payment for registration is sufficient as required by law.</string>
+    <string name="chapter2_section6"><b>SECTION 7. Registration Classification.</b> – The classification of vehicles shall be:</string>
+    <string name="chapter2_section7"><b>(a) Private.</b> – Motor vehicles registered under this classification shall not be used for hire under any circumstance.</string>
+    <string name="chapter2_section8"><b>(b) For Hire.</b> – Motor vehicles registered under this classification are those covered by certificates of public convenience, or special
+        permits issued by the Board of Transportation,  and shall be subject to the provisions of the Public Service Act and the rules and regulations issued thereunder,
+        as well as the provisions of this Act.</string>
+    <string name="chapter2_section9"><b>(c) Government.</b> – Motor vehicles owned by the government of the Philippines or any of its political subdivisions shall be registered under
+        this classification.</string>
+    <string name="chapter2_section10"><b>(d) Diplomatic.</b> Motor vehicles owned by foreign governments or by their duly accredited diplomatic officers in the Philippines and used in
+        the discharged of their official duties. Tourists bringing their own motor vehicles to the Philippines may, however, without registering such motor vehicles, use the same
+        during but not after ninety (90) days of their sojourn: Provided, That the motor vehicle displays the number plates for the current year of some other country or state,
+        and said number plates as well as the name and address (permanent and temporary) of the thereof are registered in the Bureau of Land Transportation  prior to the operation
+        of the motor vehicle. If such tourists remain in the Philippines longer than ninety (90) days, the motor vehicle shall not be operated unless registered in accordance with
+        this Act and the corresponding registration fees paid.</string>
+    <string name="chapter2_section11"><b>SECTION 8. Schedule of Registration Fees.</b> – Except as otherwise specifically provided in this Act, each application for registration of motor
+        vehicles shall be accompanied by an annual registration fee in accordance with a schedule to be prepared by the Bureau of Land Transportation subject to the approval of
+        the Minister of Transportation and Communications  in consultation with the Minister of Finance.  The fees in the schedule shall be fixed on the basis of the model, body
+        configuration, weight, cubic displacement or number of cylinders of the motor vehicle and other relevant factors. Said schedule shall not be changed more often than once
+        every three (3) years, and only upon due notice given to the public at least ninety (90) calendar days before the effectivity of such schedule: Provided, however, That
+        beginning the calendar year 1981 and until changed pursuant to this section, the schedule of registration fees shall be as follows:</string>
+    <string name="about_us"><b>Vision</b></string>
+    <string name="vision">We aim to be the leading company in providing entertainment and information in the field of technology.</string>
+    <string name="mission_content">Our mission is to provide unique content and entertainment through our applications while providing relevant information. </string>
+    <string name="mission"><b>Mission</b></string>
+    <string name="contact_information"><b>Contact Information</b></string>
+    <string name="contact_content">Our company, Code Tech, can be reached by sending us an email at codetechcompanyph@gmail.com, and/or by phone no. 696-3628 for a quick
+        response. For more information, concern and services you can visit us on codetechph.com or through our facebook page https://www.facebook.com/codetechco.ph/.</string>
+    <string name="slippery"><b>SLIPPERY WHEN WET</b></string>
+    <string name="slipcontent">This sign is a warning of a slippery road ahead. Be cautious and prepare to slow down.</string>
+    <string name="traffic_sign"><b>TRAFFIC LIGHT SIGN</b></string>
+    <string name="traffic_sign_content">The RED means to <b>STOP</b>. The GREEN light means <b>GO</b>. The ORANGE means <b>PROCEED WITH CAUTION</b>.</string>
+    <string name="no_left_turn"><b>NO LEFT TURN</b></string>
+    <string name="no_left_turn_cont">This sign does not instruct the driver to turn left under any circumstances.</string>
+    <string name="left_curve"><b>LEFT CURVE</b></string>
+    <string name="left_curve_content">This sign is a warning for a curve to the left.</string>
+    <string name="overtaking"><b>NO OVERTAKING</b></string>
+    <string name="no_overtaking">The no overtaking road sign is circular with a red border meaning that it is giving drivers an order. As the no overtaking sign is regulatory,
+        it is illegal to overtake. The no overtaking restriction ends when the lines in the road change from a continuous white line, to a broken line.
+</string>
+    <string name="two_way_traffic"><b>TWO WAY TRAFFIC</b></string>
+    <string name="_2way_content">This sign indicates that two-way traffic is ahead, i.e. one lane in either direction separated only by a line.</string>
+    <string name="roadwork"><b>ROADWORK AHEAD</b></string>
+    <string name="roadwork_content">You are approaching a road work site -  be prepared for changed road conditions and slow down.</string>
+    <string name="hump"><b>HUMP AHEAD</b></string>
+    <string name="hump_content">This signs warns you a speed bump is coming up.</string>
+    <string name="no_right"><b>NO RIGHT TURN</b></string>
+    <string name="no_right_content">This sign does not instruct the driver to turn right under any circumstances.</string>
+    <string name="give_way"><b>GIVE WAY</b></string>
+    <string name="give_way_content">Give way means to slow down and, if necessary, stop in order to prevent a crash from happening.</string>
+    <string name="speed_limit"><b>SPEED LIMIT</b></string>
+    <string name="speed_content">Speed limit denotes the maximum allowable speed that vehicles may travel on that specific section of roadway.</string>
+    <string name="straight"><b>STRAIGHT AHEAD</b></string>
+    <string name="straight_content">This sign indicates that you must proceed straight ahead.</string>
+    <string name="rock"><b>FALLING ROCKS/ DEBRIS AHEAD</b></string>
+    <string name="rocks_content">The sign indicates a risk of falling rocks and that there may be fallen rocks on the road. The symbol is adapted to the conditions of the location.</string>
+    <string name="merge"><b>MERGE</b></string>
+    <string name="merges_content">Merge signs indicate the drivers should be prepared to merge with vehicles on a separate road.</string>
+    <string name="stop"><b>STOP</b></string>
+    <string name="stop_content">A stop sign is a regulatory sign - a traffic control device that warns drivers to slow down and prepare to stop. It’s used when there are no other cars around, or at the end of a line of traffic.</string>
+
+
+</resources>
